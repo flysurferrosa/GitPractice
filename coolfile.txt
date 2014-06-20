@@ -14,3 +14,6 @@ Now I'm making some more changes on this one and calling them "baseball"
 
 ok let's see if I can figure this out...now I'm on the BIG branch, making changes.  going to save and CLOSE!
 >>>>>>> big
+
+
+ok so the other one was small change but now I'm back on the master before I made the small change.  I'm saving this which should be a conflict with small.  
