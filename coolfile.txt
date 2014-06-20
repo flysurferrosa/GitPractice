@@ -5,3 +5,9 @@ Here's my first git edit, we'll call this "Updated Typos"
 >>>>>>> sabotage
 
 Fixing the conflict
+
+Now I'm making some more changes on this one and calling them "baseball"
+
+Now i'm back on the master making a change
+
+ok let's see if I can figure this out...now I'm on the BIG branch, making changes.  going to save and CLOSE!
