@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Here are my conflicing changes to the "Fixed Typos" feature
+=======
+Here's my first git edit, we'll call this "Updated Typos"
+>>>>>>> sabotage
+
+Fixing the conflict
