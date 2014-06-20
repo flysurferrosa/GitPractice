@@ -6,4 +6,11 @@ Here's my first git edit, we'll call this "Updated Typos"
 
 Fixing the conflict
 
+<<<<<<< HEAD
 Ok - here's the "master" version, finally I'm starting to get this a little I think - right now I'm making changes that should be conflicting with the "big" branch changes I just made.  
+=======
+Now I'm making some more changes on this one and calling them "baseball"
+
+
+ok let's see if I can figure this out...now I'm on the BIG branch, making changes.  going to save and CLOSE!
+>>>>>>> big
