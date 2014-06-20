@@ -5,3 +5,5 @@ Here's my first git edit, we'll call this "Updated Typos"
 >>>>>>> sabotage
 
 Fixing the conflict
+
+Ok - here's the "master" version, finally I'm starting to get this a little I think - right now I'm making changes that should be conflicting with the "big" branch changes I just made.  
